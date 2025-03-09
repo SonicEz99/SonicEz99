@@ -1,4 +1,4 @@
-<h1 align="center">(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi 👋, I'm ZonixEz</h1>
+<h1 align="center">Hi 👋, I'm ZonixEz</h1> [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
 WelcomeToMyProfile!!
