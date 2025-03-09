@@ -16,7 +16,6 @@
 ###
 <div align="left">
  <br clear="both">
- <br clear="both">
 </div>
 ###
 
