@@ -15,7 +15,7 @@
 
 ###
 <div align="left">
-  <br >
+  <p>* ✉️  You can contact me at </p>
 </div>
 
 ###
