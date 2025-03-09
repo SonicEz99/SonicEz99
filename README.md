@@ -15,7 +15,8 @@
 
 ###
 <div align="left">
- <img src="" height="30"  />
+ <br clear="both">
+ <br clear="both">
 </div>
 ###
 
