@@ -45,7 +45,6 @@
 ###
 
 <br clear="both">
-<br clear="both">
 
 <h3>Skills</h3>
 
