@@ -45,7 +45,7 @@
 
 ### Badges
 
-![Snake Generation](https://github.com/SonicEz99/SonicEz99/actions/workflows/snake.yml/badge.svg)
+![Snake Generation](https://github.com/SonicEz99/SonicEz99/snake.yml/badge.svg)
 
 
 ###
