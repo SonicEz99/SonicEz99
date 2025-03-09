@@ -45,11 +45,6 @@
 
 ### Badges
 
-
-![Snake animation](https://raw.githubusercontent.com/SonicEz99/output/snake.svg)
-
-
-
-
+<img src="https://raw.githubusercontent.com/SonicEz99/SonicEz99/output/snake.svg" alt="Snake animation" />
 
 ###
