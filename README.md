@@ -1,6 +1,4 @@
-Hi My name is ZonixEz (Nem)
-![]()
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>👋, I'm ZonixEz</h1> 
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>, I'm ZonixEz</h1> 
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
 WelcomeToMyProfile!!
@@ -28,3 +26,5 @@ WelcomeToMyProfile!!
 <a href="http://www.github.com/SonicEz99"><img src="https://github-readme-stats.vercel.app/api?username=SonicEz99&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SonicEz99's GitHub stats" /></a>
 
 <a href="https://github.com/SonicEz99" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonicEz99&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
