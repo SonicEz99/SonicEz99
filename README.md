@@ -45,7 +45,8 @@
 
 ### Badges
 
-![Snake Generation](https://github.com/SonicEz99/SonicEz99/snake.yml)
+![Snake animation](https://raw.githubusercontent.com/SonicEz99/output/snake.svg)
+
 
 
 ###
