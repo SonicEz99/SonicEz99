@@ -45,6 +45,7 @@
 
 ### Badges
 
-<img src="https://raw.githubusercontent.com/SonicEz99/SonicEz99/snake.svg" alt="Snake animation" />
+![Snake Generation](https://github.com/SonicEz99/SonicEz99/actions/workflows/snake.yml/badge.svg)
+
 
 ###
