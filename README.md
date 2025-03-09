@@ -15,8 +15,9 @@
 
 ###
 <div align="left">
- <br clear="both">
+  <br >
 </div>
+
 ###
 
 <div align="left">
