@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>, I'm ZonixEz</h1>
-<h3 align="center"><span style="color:#39FF14">A junior developer from Thailand</span></h3>
+<h3 align="center"><span style="color:#2f821f">A junior developer from Thailand</span></h3>
 
 <div align="center">
   
