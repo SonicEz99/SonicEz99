@@ -45,7 +45,7 @@
 
 
  
-<div align="center"><h3>Just a SNAKE!!</h3></div>
+<div align="center"><h3>The Coding Serpent</h3></div>
 
 <img src="https://raw.githubusercontent.com/SonicEz99/SonicEz99/output/snake.svg" alt="Snake animation" />
 
