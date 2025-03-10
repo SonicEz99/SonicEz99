@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>, I'm ZonixEz</h1>
-<h3 align="center"><span style="color:#2f821f">A junior developer from Thailand</span></h3>
+<h3 align="center"><span style="color:#47d37c">A junior developer from Thailand</span></h3>
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%2339FF14&size=30&center=true&vCenter=true&width=600&height=100&lines=Passionate+Developer;Web+%26+App+Creator;Blockchain+Enthusiast;Always+Learning)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%47d37c&size=30&center=true&vCenter=true&width=600&height=100&lines=Passionate+Developer;Web+%26+App+Creator;Blockchain+Enthusiast;Always+Learning)
   
 </div>
 
@@ -22,13 +22,13 @@
 
 <img align="right" height="150" src="https://media.tenor.com/ZJ87GfH6CDgAAAAm/dance-dog.webp" />
 
-### <span style="color:#39FF14">📬 Contact Me</span>
+### <span style="color:#47d37c">📬 Contact Me</span>
 
 <div align="left">
   <p>✉️ You can reach me at: <i>pnem2003@gmail.com</i></p>
 </div>
 
-### <span style="color:#39FF14">🌐 Socials</span>
+### <span style="color:#47d37c">🌐 Socials</span>
 
 <div align="left">
   <a href="#"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=0A0A0A&logoColor=%2339FF14&labelColor=&style=for-the-badge" height="35" alt="youtube logo" /></a>
