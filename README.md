@@ -78,9 +78,5 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonicEz99&background=0D1117&border=0D1117&stroke=0D1117&ring=47d37c&fire=47d37c&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=47d37c&sideLabels=47d37c&dates=FFFFFF" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <h3 style="color:#47d37c">✨ "Code is like humor. When you have to explain it, it's bad." ✨</h3>
+  <h3 style="color:#47d37c">✨ "Life Never Stop Learning." ✨</h3>
 </div>
