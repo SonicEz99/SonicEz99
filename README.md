@@ -3,19 +3,18 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%47d37c&size=30&center=true&vCenter=true&width=600&height=100&lines=Passionate+Developer;Web+%26+App+Creator;Blockchain+Enthusiast;Always+Learning)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%2347d37c&size=30&center=true&vCenter=true&width=600&height=100&lines=Passionate+Developer;Web+%26+App+Creator;Blockchain+Enthusiast;Always+Learning)
   
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonicEz99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=true" alt="SonicEz99's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SonicEz99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&title_color=47d37c&icon_color=47d37c&text_color=ffffff&bg_color=0D1117&locale=en&hide_border=true" alt="SonicEz99's GitHub stats" height="165" />
 
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SonicEz99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=true" height="165" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SonicEz99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&title_color=47d37c&text_color=ffffff&bg_color=0D1117&hide_border=true" height="165" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SonicEz99&theme=matrix&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SonicEz99&theme=darkhub&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" alt="trophies" />
 </div>
 
 ---
@@ -25,26 +24,26 @@
 ### <span style="color:#47d37c">📬 Contact Me</span>
 
 <div align="left">
-  <p>✉️ You can reach me at: <i>pnem2003@gmail.com</i></p>
+  <p>✉️ You can reach me at: <i>your.email@example.com</i></p>
 </div>
 
 ### <span style="color:#47d37c">🌐 Socials</span>
 
 <div align="left">
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=0A0A0A&logoColor=%2339FF14&labelColor=&style=for-the-badge" height="35" alt="youtube logo" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0A0A0A&logoColor=%2339FF14&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=0A0A0A&logoColor=%2339FF14&labelColor=&style=for-the-badge" height="35" alt="twitch logo" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=0A0A0A&logoColor=%2339FF14&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0A0A0A&logoColor=%2339FF14&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A0A0A&logoColor=%2339FF14&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
-  <a href="https://www.github.com/SonicEz99"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=0A0A0A&logoColor=%2339FF14&labelColor=&style=for-the-badge" height="35" alt="github logo" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=0A0A0A&logoColor=%2347d37c&labelColor=&style=for-the-badge" height="35" alt="youtube logo" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0A0A0A&logoColor=%2347d37c&labelColor=&style=for-the-badge" height="35" alt="instagram logo" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=0A0A0A&logoColor=%2347d37c&labelColor=&style=for-the-badge" height="35" alt="twitch logo" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=0A0A0A&logoColor=%2347d37c&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0A0A0A&logoColor=%2347d37c&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A0A0A&logoColor=%2347d37c&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+  <a href="https://www.github.com/SonicEz99"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=0A0A0A&logoColor=%2347d37c&labelColor=&style=for-the-badge" height="35" alt="github logo" /></a>
 </div>
 
 <br clear="both">
 
 ---
 
-### <span style="color:#39FF14">💻 Tech Stack</span>
+### <span style="color:#47d37c">💻 Tech Stack</span>
 
 <div align="center">
 
@@ -68,20 +67,20 @@
 
 ---
 
-<div align="center"><h3 style="color:#39FF14">⚡ The Coding Serpent ⚡</h3></div>
+<div align="center"><h3 style="color:#47d37c">⚡ The Coding Serpent ⚡</h3></div>
 
 <img src="https://raw.githubusercontent.com/SonicEz99/SonicEz99/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SonicEz99&style=for-the-badge&color=39FF14" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SonicEz99&style=for-the-badge&color=47d37c" alt="Profile Views" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonicEz99&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SonicEz99&background=0D1117&border=0D1117&stroke=0D1117&ring=47d37c&fire=47d37c&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=47d37c&sideLabels=47d37c&dates=FFFFFF" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
-  <h3 style="color:#39FF14">✨ "Code is like humor. When you have to explain it, it's bad." ✨</h3>
+  <h3 style="color:#47d37c">✨ "Code is like humor. When you have to explain it, it's bad." ✨</h3>
 </div>
