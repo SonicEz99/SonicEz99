@@ -24,7 +24,7 @@
 ### <span style="color:#47d37c">📬 Contact Me</span>
 
 <div align="left">
-  <p>✉️ You can reach me at: <i>your.email@example.com</i></p>
+  <p>✉️ You can reach me at: <i>pnem2003@gmail.com</i></p>
 </div>
 
 ### <span style="color:#47d37c">🌐 Socials</span>
