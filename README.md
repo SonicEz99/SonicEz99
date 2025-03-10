@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%2347d37c&size=30&center=true&vCenter=true&width=600&height=100&lines=Passionate+Developer;Web+%26+App+Creator;Blockchain+Enthusiast;Always+Learning)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%2347d37c&size=30&center=true&vCenter=true&width=600&height=100&lines=Passionate+Developer;Web+%26+App+Creator;Always+Learning)
   
 </div>
 
