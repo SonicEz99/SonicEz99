@@ -8,7 +8,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SonicEz99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=true" alt="SonicEz99's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SonicEz99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="SonicEz99's GitHub stats" height="165" />
+
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SonicEz99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=true" height="165" alt="languages graph" />
 </div>
