@@ -49,12 +49,12 @@
 
   #### Languages
   <p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,php,html,css" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=java,js,php,html,css" /></a>
   </p>
   
   #### Frameworks & Libraries
   <p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,express,tailwind,bootstrap,vite,laravel,dotnet,jquery" /></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,express,tailwind,bootstrap,laravel,jquery" /></a>
   </p>
   
   #### Tools & Technologies
